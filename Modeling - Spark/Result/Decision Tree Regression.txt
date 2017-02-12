@@ -1,0 +1,17 @@
++--------------------+------------------+-----------------+
+|            features|HousingMedianRent$|       prediction|
++--------------------+------------------+-----------------+
+|[29.4,9.95204,14....|               891|879.2083333333334|
+|[29.9,8.8449,9.77...|               644|783.9322033898305|
+|[29.9,9.36187,9.5...|               804|879.2083333333334|
+|[30.0,9.33527,9.4...|               811|879.2083333333334|
+|[30.0,10.4396,9.9...|               637|536.6666666666666|
++--------------------+------------------+-----------------+
+only showing top 5 rows
+
+Decision Tree Regression result:
+Root Mean Squared Error (RMSE): 93.332
+Mean Squared Error (MSE): 8710.86
+Mean Absolute Error (MAE): 60.4492
+R-squared: 0.944005
+DecisionTreeRegressionModel (uid=DecisionTreeRegressor_4218b6c52f525a349c98) of depth 5 with 63 nodes
